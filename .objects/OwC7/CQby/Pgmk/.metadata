@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge chatgpt - Search",
+  "Type": "Screen",
+  "Id": "PgmkQ20OqUyaVBl50pVOuw",
+  "Reference": "C_GbV8gAgEOeQEVt033SaA/PgmkQ20OqUyaVBl50pVOuw",
+  "ParentRef": "C_GbV8gAgEOeQEVt033SaA/CQbyuSZdbEieS41WBGjMVg",
+  "Created": "2025-11-11T17:57:09.5677574Z",
+  "Updated": "2025-11-11T17:57:09.5677574Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "sampel.txt - Notepad",
+  "Type": "Screen",
+  "Id": "OsHF5N8pDEaDj-8bUPKe3g",
+  "Reference": "C_GbV8gAgEOeQEVt033SaA/OsHF5N8pDEaDj-8bUPKe3g",
+  "ParentRef": "C_GbV8gAgEOeQEVt033SaA/CQbyuSZdbEieS41WBGjMVg",
+  "Created": "2025-11-12T06:44:40.878824Z",
+  "Updated": "2025-11-12T06:44:40.878824Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
