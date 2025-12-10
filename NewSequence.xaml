@@ -53,12 +53,13 @@
       <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="NewSequence" sap:VirtualizedContainerService.HintSize="605,335.65666666666664" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="NewSequence" sap:VirtualizedContainerService.HintSize="609,335.65666666666664" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="450,114" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hello" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="450,123" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hello" />
+    <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="450,114" sap2010:WorkflowViewState.IdRef="Delay_1" />
   </Sequence>
 </Activity>
